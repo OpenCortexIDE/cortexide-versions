@@ -1,9 +1,9 @@
 {
   "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.99.30044/CortexIDE-linux-armhf-1.99.30044.tar.gz",
   "name": "1.99.30044",
-  "version": "fd05258e3f7e691a3c10ef57e0961abffa85ece7",
+  "version": "78c667f49b0322bd4ce70a6ce4a3a8c80cf3d8aa",
   "productVersion": "1.99.30044.0",
-  "hash": "e1e974632eaad1d80e687afd51a45f9e928d6b82",
-  "timestamp": "1762370277446",
-  "sha256hash": "36c07604aeb5f0b9dcdea2f6fe3049984ec4a893295b3c5b2912955982381807"
+  "hash": "b5b9f6be57ef7f0ac3ffca6c5c116b5cfe2fe259",
+  "timestamp": "1762374895750",
+  "sha256hash": "96625ac6dfc02bd2c4d76f13db124fb6e83385e0ab157f41a0adcd25fc78cc1c"
 }
