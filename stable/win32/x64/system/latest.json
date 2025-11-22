@@ -1,9 +1,9 @@
 {
   "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00001/CortexIDESetup-x64-1.106.00001.exe",
   "name": "1.106.00001",
-  "version": "4ebcfd9c55a4ca581effb2f70a07daa278d08590",
+  "version": "329afa6fe87fc65e743227e7e2464c580d12794e",
   "productVersion": "1.106.1.0",
-  "hash": "83c5425541b68edd80e532efab4accbf1d9cc56d",
-  "timestamp": "1763775518598",
-  "sha256hash": "cd063f56980f0909033000df6f8c8bec899d29133b4715e2679175a5dad4aaca"
+  "hash": "0f23c70f35a9b44f7a8a9af9f1f2850413c8c01b",
+  "timestamp": "1763797020153",
+  "sha256hash": "967b797183c4f828f1c4243558e7378d10d8a426aa4688bbfcac3f549396ad64"
 }
