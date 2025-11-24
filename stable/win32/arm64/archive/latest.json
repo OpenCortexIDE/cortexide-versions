@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00.0.9/CortexIDE-win32-arm64-1.106.00.0.9.zip",
-  "name": "1.106.00.0.9",
-  "version": "f8c9e9a594f60add2fdbf145b0b25b22d64e95f9",
-  "productVersion": "1.106.0.0",
-  "hash": "4ed9c9ef7367989c464bb3e12bc0a84ea573fbf4",
-  "timestamp": "1763956424206",
-  "sha256hash": "c2c6ba336b4483a4c2f066907b67c649f57a9c2e058f2bcf4c8c1da57d09967a"
+  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00001/CortexIDE-win32-arm64-1.106.00001.zip",
+  "name": "1.106.00001",
+  "version": "4e2b20cc743461807c2ec3e03e38434af14909f8",
+  "productVersion": "1.106.1.0",
+  "hash": "426206fe763d85c1c6d0c7c64f00993f1e19428c",
+  "timestamp": "1763995417531",
+  "sha256hash": "e91c48e2dfd4a79ced0c6187c68f03f2bc5c16e961528e2f6e3d2ed5d881e916"
 }
