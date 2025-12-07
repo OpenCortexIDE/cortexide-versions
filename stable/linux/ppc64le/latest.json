@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00200/CortexIDE-linux-ppc64le-1.106.00200.tar.gz",
-  "name": "1.106.00200",
-  "version": "9d9aed448bfc937a4da0a21c36e34a7df8b662ca",
-  "productVersion": "1.106.200.0",
-  "hash": "7f4d5638d40f803e89c2ca1a8160c8c5688213f9",
-  "timestamp": "1765053178176",
-  "sha256hash": "fa2d0b1e5d4ff3fd4b60c91316e0c7adbe105fc0ee72a16f20236529dde677b3"
+  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00500/CortexIDE-linux-ppc64le-1.106.00500.tar.gz",
+  "name": "1.106.00500",
+  "version": "2f2394a1133a44f821d8c05999f2092826df9d51",
+  "productVersion": "1.106.500.0",
+  "hash": "36a00839dfbb2a1180089b23e656a4dee5b8d32f",
+  "timestamp": "1765143167396",
+  "sha256hash": "a368294048e812ca056165c4687ac8bbd405b59359e01ef0ba793c92b8165189"
 }
