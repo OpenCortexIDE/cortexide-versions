@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00800/CortexIDE-x64-updates-disabled-1.106.00800.msi",
-  "name": "1.106.00800",
-  "version": "a8801eb54e48627deefa41d32fe52926aa02e0dd",
-  "productVersion": "1.106.800.0",
-  "hash": "e0f00fb3d1131802234457ef07701bbdbf596c59",
-  "timestamp": "1765301156338",
-  "sha256hash": "fc9263a61b4b1e90c73cec2331143a952af073e068b0b162615464b63a4edd81"
+  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00900/CortexIDE-x64-updates-disabled-1.106.00900.msi",
+  "name": "1.106.00900",
+  "version": "1f55631ef4ebe1f6334ed6648095b190a95c6326",
+  "productVersion": "1.106.900.0",
+  "hash": "ec1cf3856bd744089a904991c5d674f7b18fd45c",
+  "timestamp": "1765322074925",
+  "sha256hash": "531456afe37728276e4cc40c04628b6b3aa9dbf538236b8757aaa7c4b23739bf"
 }
