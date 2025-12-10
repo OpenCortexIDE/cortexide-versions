@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00900/CortexIDE-linux-x64-1.106.00900.tar.gz",
-  "name": "1.106.00900",
-  "version": "1f55631ef4ebe1f6334ed6648095b190a95c6326",
-  "productVersion": "1.106.900.0",
-  "hash": "fe2f3773b8e4560181984777b5a963ae97b4dfc3",
-  "timestamp": "1765319286840",
-  "sha256hash": "99294db29ae2f4988c7af26da5472d0eaf69977204ad077770c1810864f11c53"
+  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00901/CortexIDE-linux-x64-1.106.00901.tar.gz",
+  "name": "1.106.00901",
+  "version": "eec119bdcde83c9b1b9cb1b978120d8de87c5e91",
+  "productVersion": "1.106.901.0",
+  "hash": "a35c5459180683deaa15875e4ed77b77491e8bdd",
+  "timestamp": "1765357329133",
+  "sha256hash": "4a5cb593dbc525c4c7f17a7a30eb7d4f4ff6261b5cc4e87c49984c56b1f283de"
 }
