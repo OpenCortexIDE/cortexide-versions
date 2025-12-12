@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00904/CortexIDE-darwin-x64-1.106.00904.zip",
-  "name": "1.106.00904",
-  "version": "45fd450a30a43272f40e70a52e05dea087135d49",
-  "productVersion": "1.106.904.0",
-  "hash": "1973c5ca9e7312b1d135bb154570fead1c34887c",
-  "timestamp": "1765544798772",
-  "sha256hash": "5b1179db05358df7ac57c108537ec4c9747fba9723c0cbb32f9060f750a0da1b"
+  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00905/CortexIDE-darwin-x64-1.106.00905.zip",
+  "name": "1.106.00905",
+  "version": "2f50d4ec7829a92b0f76d6e0d2152fb8f0fc7cb2",
+  "productVersion": "1.106.905.0",
+  "hash": "9d234ba83abf8178ce0a980e8b84b2886a1bbcfd",
+  "timestamp": "1765561990004",
+  "sha256hash": "2a00bc0eecf7aec2f3dcdaecee1d7ce4cb0abb9282722cd5e1808958d2fa790c"
 }
