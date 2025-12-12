@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00904/CortexIDEUserSetup-arm64-1.106.00904.exe",
-  "name": "1.106.00904",
-  "version": "45fd450a30a43272f40e70a52e05dea087135d49",
-  "productVersion": "1.106.904.0",
-  "hash": "c23eb573b492941448afdbad3f19a1f911418e14",
-  "timestamp": "1765544197309",
-  "sha256hash": "11a3dcf40a340e5c62f2c6d338353cbdf6a81a3b1ee06dabdb19e12f23aa38d8"
+  "url": "https://github.com/OpenCortexIDE/cortexide-binaries/releases/download/1.106.00905/CortexIDEUserSetup-arm64-1.106.00905.exe",
+  "name": "1.106.00905",
+  "version": "2f50d4ec7829a92b0f76d6e0d2152fb8f0fc7cb2",
+  "productVersion": "1.106.905.0",
+  "hash": "179e9708e8d5491ba9b718f2b7075175df48622a",
+  "timestamp": "1765562915626",
+  "sha256hash": "16102b9419c3b72158a21aa421df8eec3374c378b2b80c99cf45226980f8eca0"
 }
